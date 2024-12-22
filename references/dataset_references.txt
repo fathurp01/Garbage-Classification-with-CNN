@@ -1,0 +1,2 @@
+in this model we use dataset references from Kaggle, with dataset owned by user cchangcs.
+https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification 
